@@ -1,0 +1,5 @@
+-rrequirements.txt
+pytest
+WebTest
+flake8
+coverage
