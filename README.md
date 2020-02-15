@@ -29,4 +29,5 @@ or just run pytest directly -- although this is not recommended
 
 ```bash
 pytest tests
+flake8 idiet tests
 ```
