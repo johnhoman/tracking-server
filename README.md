@@ -2,7 +2,7 @@ iDiet Tracking Server
 =====================
 
 
-[Conntinuous Integration](https://github.com/johnhoman/tracking-server/workflows/Continuous%20Integration/badge.svg?branch=master)
+![Continuous Integration](https://github.com/johnhoman/tracking-server/workflows/Continuous%20Integration/badge.svg)
 
 ## Development
 ### Install requirements
